@@ -1,6 +1,5 @@
 #include "mpi.h"
 
-#define N 3
 
 int main(int argc, char **argv){
     MPI_Status status;
